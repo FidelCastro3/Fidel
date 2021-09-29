@@ -34,7 +34,7 @@ export default class Command extends BaseCommand {
             }
             let text = `✨ *╭─「＜（＾－＾）＞」
 │❏ Owner:Fidel Castro
-│❏ Name: 𝐅𝐈𝐃𝐄𝐋
+│❏ Bot Name: 𝐅𝐈𝐃𝐄𝐋🈰⻩
 │❏ Prefix: $
 │❏ Owner: <$Mod>
 ╰────────────┈㊰* ✨\n\n`
