@@ -33,7 +33,7 @@ export default class Command extends BaseCommand {
                 }
             }
             let text = `✨ *╭─「＜（＾－＾）＞」
-│❏ User: *${M.sender.username}*
+│❏ Owner:Fidel Castro
 │❏ Name: 𝐅𝐈𝐃𝐄𝐋
 │❏ Prefix: $
 │❏ Owner: <$Mod>
