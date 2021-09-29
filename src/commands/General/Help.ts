@@ -38,9 +38,9 @@ export default class Command extends BaseCommand {
             let text = `
 ╭─「＜（＾－＾）＞」
 │❏ User: *${M.sender.username}*
-│❏ Name: 𝐆𝐨𝐣𝐨
-│❏ Prefix: !
-│❏ Owner: <!mod>
+│❏ Name:𝐅𝐢𝐝𝐞𝐥
+│❏ Prefix: $
+│❏ Owner: <$mod>
 ╰────────────┈㊰                 \n\n`
             const keys = Object.keys(categories)
             for (const key of keys)
@@ -52,11 +52,11 @@ export default class Command extends BaseCommand {
             return void this.client.sendMessage(M.from, { url: chitoge }, MessageType.video, {
             mimetype: Mimetype.gif,
             caption: `${text} 
- ──⁂┈[ 𝖌𝖔𝖏𝖔 𝖇𝖔𝖙 ]┈⁂───
+ ──⁂┈[𝖋𝖎𝖉𝖊𝖑 𝖇𝖔𝖙 ]┈⁂───
 
 ┌────────────┈⁂
-│   🎇 𝐆𝐨𝐣𝐨
-│   ©️ Synthesized Infinity Botto
+│   🎇𝐅𝐈𝐃𝐄𝐋
+│   ©️ Infinity Bot Created By Fidel
 └────────────┈⁂
 ⁂┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈⁂
 
